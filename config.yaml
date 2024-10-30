@@ -1,16 +1,18 @@
-#write the full path to get to the correct directory, debug help sent by Chat-GPT
-path: C:/Users/sylvi/OneDrive/Documents/GitHub/IAT360_CV_Project_Pest/datasets
+# Specify the full path in quotes to prevent syntax errors
+path: "C:/Users/sylvi/OneDrive/Documents/GitHub/IAT360_CV_Project_Pest/datasets"
 train: images/train
 val: images/val
 
 # Classes
-nc: 5 # replace based on your dataset's number of classes
+nc: 5  # replace based on your dataset's number of classes
 
 # Class names
-# replace all class names with your own classes' names
 names:
   0: Green Leaf Hopper
   1: Plant Hopper
   2: Rice Bug
   3: Rice Leaf Roller
   4: Rice Stem Borer
+
+# Loss function tuning
+cls: 0.7  # Adjusted from the default 0.5 to emphasize classification accuracy
