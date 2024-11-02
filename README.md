@@ -56,8 +56,8 @@
       3. Write the outline for presentation slides
      
 ● Nov. 3-Nov. 6 (Final report + Presentation)
- ○ Jenna: Problem introduction + Dataset report
- ○ Sylvia: Model analysis + Challenges
+ ○ Sylvia: Problem introduction + Dataset report
+ ○ Jenna: Model analysis + Challenges
 
 
 
