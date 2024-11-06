@@ -30,6 +30,7 @@
  ● Crop pest dataset: https://www.kaggle.com/datasets/pialghosh/crop-pest-dataset
  ● Other new images collected from Google Image Search
  ● Image Annotation tool: https://www.makesense.ai/ 
+ ● Train-Test Split Code: https://github.com/IAT-ExploringAI-2024/Week2-DataPreprocessing 
 
 ## Timeline
 ● Oct. 20- Oct. 25
